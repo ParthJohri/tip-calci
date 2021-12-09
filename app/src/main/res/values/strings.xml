@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TIP CALCI</string>
+    <string name="bill">bill</string>
+    <string name="_24">24%</string>
+    <string name="total">total</string>
+    <string name="tipvalue">tipvalue</string>
+</resources>
