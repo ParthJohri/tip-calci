@@ -1,0 +1,2 @@
+com/example/android/tipcalci/BuildConfig.java
+ com.example.android.tipcalci.BuildConfig
